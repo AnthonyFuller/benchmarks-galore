@@ -1,9 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "anthonyfuller.benchmarksgalore",
 	"name": "Benchmarks Galore",
 	"description": "Adds more benchmarks, ported from HITMAN 3: VR Reloaded. Ensure you replace cleanThumbs.dat with the one on the mod page before deploying!",
 	"authors": ["Anthony Fuller", "XR Games"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.33.19",
+	"updateCheck": "https://github.com/AnthonyFuller/benchmarks-galore/releases/latest/download/updates.json"
 }
